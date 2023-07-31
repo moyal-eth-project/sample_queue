@@ -1,0 +1,5 @@
+Sample Name,Sample ID,Barcode ID,MS Method,Processing Method,LC Method,Rack Type,Rack Position,Plate Type,Plate Position,Vial Position,Sample Type,Dilution Factor,Data File,Results File,Comment,Injection Volume,Marker Well
+Blank_1_test_15min,,,15min_BEH_TOFMSMS_75msec_5msec_t50_ZenoON_JC,,15min_BEH_100mm_Lx_LC_Binary_AO_2,Multisampler 2H 2H 1H 1H 1H 1H 5Ref,D3F,*96CorningV*,1,A1,Unknown,1,Blank_1_CID_15min,,,2,
+Blank_2_test_15min,,,15min_BEH_TOFMSMS_75msec_5msec_t50_ZenoON_JC,,15min_BEH_100mm_Lx_LC_Binary_AO_2,Multisampler 2H 2H 1H 1H 1H 1H 5Ref,D3F,*96CorningV*,1,A1,Unknown,1,Blank_2_CID_15min,,,2,
+Blank_3_test_15min,,,15min_BEH_TOFMSMS_75msec_5msec_t50_ZenoON_JC,,15min_BEH_100mm_Lx_LC_Binary_AO_2,Multisampler 2H 2H 1H 1H 1H 1H 5Ref,D3F,*96CorningV*,1,A1,Unknown,1,Blank_3_CID_15min,,,2,
+Blank_4_test_15min,,,15min_BEH_TOFMSMS_75msec_5msec_t50_ZenoON_JC,,15min_BEH_100mm_Lx_LC_Binary_AO_2,Multisampler 2H 2H 1H 1H 1H 1H 5Ref,D3F,*96CorningV*,1,A1,Unknown,1,Blank_4_CID_15min,,,2,
